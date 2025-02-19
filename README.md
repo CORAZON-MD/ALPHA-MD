@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃 </h1>
+<h1 align="center"> 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷 </h1>
 
  
 <h1 align="center"> Surviving is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
@@ -26,7 +26,7 @@
 
   
 
-<a href="https://github.com/keithkeizzah/ALPHA-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
+<a href="https://github.com/CORAZON-MD/CORAZON-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -39,7 +39,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Keithkeizzah/ALPHA-MD&template=https://github.com/Keithkeizzah/ALPHA-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/CORAZON-MD/CORAZON-MD&template=https://github.com/CORAZON-MD/CORAZON-MD.git)***
 
 <br>
 
@@ -50,7 +50,7 @@
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/keithkeizzah/KEITH-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/CORAZON-MD/CORAZON-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
@@ -82,11 +82,11 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @Keithkeizzah/ALPHA-MD](http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD)](https://github.com/Keithkeizzah/ALPHA-MD/stargazers)
+[![Stargazers repo roster for @CORAZON-MD/CORAZON-MD](http://reporoster.com/stars/dark/CORAZON-MD/CORAZON-MD)](https://github.com/CORAZON-MD/CORAZON-MD/stargazers)
      
-[![Forkers repo roster for @Keithkeizzah/ALPHA-MD](http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD)](https://github.com/Keithkeizzah/ALPHA-MD/network/members)
+[![Forkers repo roster for @CORAZON-MD/CORAZON-MD](http://reporoster.com/forks/dark/CORAZON-MD/CORAZON-MD)](https://github.com/CORAZON-MD/CORAZON-MD/network/members)
 
-Enjoy the diverse features of 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷  to enhance your Whatsapp more enjoyable
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
